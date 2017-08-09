@@ -5,7 +5,7 @@ This is a remake of /u/magmapus's [App Store Archive](https://www.reddit.com/r/p
 
 It is more lightweight, only downloading JSONs and PBWs, and it downloads jsons from every platform (aplite, basalt, etc.).
 
-It is intented to be used for Rebble's App Store, although you can use it to download your own archive of the Pebble App Store.
+It is intented to be used for Rebble's App Store, although you can use it to download your own archive of the Pebble App Store. **Please be aware that crawling the whole app store takes a heavy toll on Fitbit's server, and you should use the download below whenever possible**.
 
 Usage
 -----
